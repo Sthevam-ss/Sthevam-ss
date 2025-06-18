@@ -17,5 +17,6 @@ Me chamo Sthevam! Formado em Análise e Desenvolvimento de Sistemas e atualmente
       
 <img width="60px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
 <img width="60px" src="https://img.icons8.com/fluency/48/power-bi-2021.png" />
+<img width="60px" src="https://img.icons8.com/fluency/48/microsoft-copilot.png" />
 
 </div>
